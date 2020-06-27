@@ -1,6 +1,7 @@
 {
-  "name": "with-typescript",
-  "version": "1.0.0",
+  "name": "bot",
+  "version": "0.1.0",
+  "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -20,6 +21,5 @@
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.4.6",
     "typescript": "3.9.5"
-  },
-  "license": "ISC"
+  }
 }
